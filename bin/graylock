@@ -1,1 +1,3 @@
-xlock -mode blank -username 'USERNAME: ' -password 'PASSWORD: ' -background gray30 -dpmsoff 1 -message ' ' -info ' '
+#!/bin/bash
+
+xlock -mode image -username 'USERNAME: ' -password 'PASSWORD: ' -background gray30 -dpmsoff 600 -count 1 
