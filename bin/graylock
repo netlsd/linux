@@ -1,0 +1,1 @@
+xlock -mode blank -username 'USERNAME: ' -password 'PASSWORD: ' -background gray30 -dpmsoff 1 -message ' ' -info ' '
