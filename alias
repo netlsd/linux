@@ -1,0 +1,1 @@
+alias x='xinit /etc/X11/xinit/xinitrc -- -dpi 75 -nolisten tcp'
